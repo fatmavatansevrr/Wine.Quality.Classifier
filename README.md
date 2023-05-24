@@ -1,5 +1,5 @@
 # Wine Quality Classifier
-<img src="[/path/to/img.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fpredicting-wine-quality-with-several-classification-techniques-179038ea6434&psig=AOvVaw1lBD2s1_b4jEjQWu2hVEEw&ust=1685026731516000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDB3--bjv8CFQAAAAAdAAAAABAE)" alt="Alt text" title="Optional title">
+
 
 ## Description of the Dataset:
 This datasets is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).Your task is to predict the quality of wine using the given data.
