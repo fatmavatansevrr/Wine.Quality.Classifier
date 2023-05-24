@@ -1,1 +1,1 @@
-# Wine.Quality.Classifier
+# Wine Quality Classifier
